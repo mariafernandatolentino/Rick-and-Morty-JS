@@ -1,1 +1,1 @@
-# Rick-e-Morty-JS
+# Rick-and-Morty-JS
