@@ -1,1 +1,1 @@
-"# Rick-e-Morty-JS" 
+# Rick-e-Morty-JS
